@@ -80,7 +80,7 @@ export default function Careers() {
               <div className="w-16 h-16 bg-white rounded-2xl shadow-sm flex items-center justify-center mb-6 text-[#00B4D8]">
                 <UploadCloud size={32} />
               </div>
-              <h3 className="text-2xl font-bold text-[#111827] mb-4">Don't see a fit?</h3>
+              <h3 className="text-2xl font-bold text-[#111827] mb-4">Don&apos;t see a fit?</h3>
               <p className="text-gray-600 mb-8">
                 Submit your resume and our recruitment team will reach out when a position matching your skills becomes available.
               </p>

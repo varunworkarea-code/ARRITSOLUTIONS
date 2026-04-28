@@ -2,8 +2,8 @@
 
 import { motion } from "framer-motion";
 import { 
-  Code2, Terminal, Database, Cpu, BrainCircuit, 
-  LineChart, Cloud, ShieldCheck, Lock, Building2 
+  Code2, Database, BrainCircuit, 
+  Cloud, ShieldCheck 
 } from "lucide-react";
 
 const serviceCategories = [

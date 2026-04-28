@@ -1,6 +1,5 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { Mail, MapPin, PhoneCall, Send } from "lucide-react";
 
 export default function Contact() {
@@ -10,7 +9,7 @@ export default function Contact() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h4 className="text-[#00B4D8] font-bold tracking-widest uppercase text-sm mb-3">Get In Touch</h4>
           <h2 className="text-3xl md:text-4xl font-bold text-[#111827] mb-4">
-            Let's Discuss Your Business Needs
+            Let&apos;s Discuss Your Business Needs
           </h2>
           <p className="text-gray-600 text-lg">
             Ready to scale your team or start a new technology project? Contact us today.
